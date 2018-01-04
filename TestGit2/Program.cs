@@ -10,8 +10,7 @@ namespace TestGit2
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Czesc");
-            Console.WriteLine("Hello Universe");
+           //komentarz
         }
     }
 }
